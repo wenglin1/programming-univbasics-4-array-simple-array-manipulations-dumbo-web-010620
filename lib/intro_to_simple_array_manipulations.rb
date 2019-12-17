@@ -1,7 +1,7 @@
 def using_push(array,string)
-  array.push(string)
+  array.push
 end
 
 def using_unshift(array,string)
-  array.using_unshift(string)
+  array.unshift
 end
